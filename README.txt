@@ -9,7 +9,7 @@ Hi, I'm Ramya Kulkarni, a passionate developer with experience in building data 
 
 ## Contact
 
-- Email: ramya.kulkarni@example.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ramya-kulkarni)
-- GitHub: [Your GitHub Profile](https://github.com/ramyakulkarni3007)
+- Email: kulkarni.ram@northeastern.edu
+- LinkedIn:https://www.linkedin.com/in/kulkarni-ramya/
+- GitHub:https://github.com/ramyakulkarni3007
 
