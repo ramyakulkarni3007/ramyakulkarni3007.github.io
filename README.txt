@@ -1,6 +1,15 @@
-Thanks for downloading this template!
+# Ramya Kulkarni's Portfolio
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to my portfolio website! This site showcases my projects and skills.
+
+
+## About Me
+
+Hi, I'm Ramya Kulkarni, a passionate developer with experience in building data analytics systems and connected vehicle technologies.
+
+## Contact
+
+- Email: ramya.kulkarni@example.com
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ramya-kulkarni)
+- GitHub: [Your GitHub Profile](https://github.com/ramyakulkarni3007)
+
